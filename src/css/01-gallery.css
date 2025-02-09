@@ -2,6 +2,12 @@
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   --animation-duration: 250ms;
 }
+body{
+  padding: 20px;
+  background-color: rgb(112, 66, 66);
+}
+
+
 
 .gallery {
   display: grid;
